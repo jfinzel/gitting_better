@@ -30,6 +30,7 @@ We use git everyday, but sometimes forget that there's more than just push & pul
   3. Look at the history
   4. Rewind to a point before your terribleness started
   5. Consolidate to commits that make sense
+  6. Push em up
 
 ### Credit where it's due
 These exercises come from a lecture [Kyle Hargraves](https://github.com/pd) gave at [Enova](https://www.enova.com/) 4/15/15. You can find the slides [here](https://docs.google.com/presentation/d/1atduyqxDJNBv6U9QwIEGdsYMvRUmw54HSFXk0lfYfHc) if you're an Enova employee. Otherwise.. well, you're outta luck :)
