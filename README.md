@@ -23,6 +23,7 @@ We use git everyday, but sometimes forget that there's more than just push & pul
   2. Is the sha from your fixed commit the same as the on from your dumb commit?
 7. You've discovered that your project collaborators can't push commits to branches on your remote.
   1. **Question 4:** How do you 'move' a branch from your remote to a different one (you can practice by attempting to move it to mine)
+8. What about amending multiple commits?
 
 ### Credit where it's due
 These exercises come from a lecture [Kyle Hargraves](https://github.com/pd) gave at [Enova](https://www.enova.com/) 4/15/15. You can find the slides [here](https://docs.google.com/presentation/d/1atduyqxDJNBv6U9QwIEGdsYMvRUmw54HSFXk0lfYfHc) if you're an Enova employee. Otherwise.. well, you're outta luck :)
