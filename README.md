@@ -16,15 +16,15 @@ We use git everyday, but sometimes forget that there's more than just push & pul
 2. Create a new branch, call it something creative like `new_branch_<your_name>`
 3. Push it up to **your** remote.
 4. Add a file in new_branch, called new_file.txt, and push it up. Take note of the commit sha
-  1. **Question 2:** How do you find a commit's sha from the command line? in git ui?
+  2. **Question 2:** How do you find a commit's sha from the command line? in git ui?
 5. Oops! You meant to put something in new_file.txt. `echo 'hello' > new_file.txt`
 6. You don't want everyone to know how dumb you are
-  1. **Question 3:** How do you fix your dumb commit without anyone knowing?
+  2. **Question 3:** How do you fix your dumb commit without anyone knowing?
   2. Is the sha from your fixed commit the same as the on from your dumb commit?
 7. You've discovered that your project collaborators can't push commits to branches on your remote.
-  1. **Question 4:** How do you 'move' a branch from your remote to a different one (you can practice by attempting to move it to mine)
+  2. **Question 4:** How do you 'move' a branch from your remote to a different one (you can practice by attempting to move it to mine)
 8. What about amending multiple commits?
-  1. Maybe you're bad at committing. Maybe you put 'wip' as your commit
+  2. Maybe you're bad at committing. Maybe you put 'wip' as your commit
      messgae 9x in a row. Either way, it's time to make things prettier.
 
 ### Credit where it's due
